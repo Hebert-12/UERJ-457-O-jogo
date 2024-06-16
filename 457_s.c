@@ -47,16 +47,16 @@ int main (void){
     
     printf ("\n1. Novo jogo\n2. Continuar\n3. Progresso\n");
     scanf("%d", &menu);
-    getchar(); clrscr();
+    getchar(); system.cls()
     
     while (menu != 1 && menu != 2 && menu!= 3){
 
         printf("Opção inválida.");
-        getchar(); clrscr();
+        getchar(); system.cls()
 
         printf ("\n1. Novo jogo\n2. Continuar\n3. Progresso\n");
         scanf("%d", &menu);
-        getchar(); clrscr();
+        getchar(); system.cls()
     }
 
     if (menu == 3){
@@ -71,7 +71,7 @@ int main (void){
         while ((c = fgetc(p)) != EOF) {
             printf("%c", c);
         }
-        getchar(); clrscr();
+        getchar(); system.cls()
     	fclose(p);
     }
 
@@ -79,7 +79,7 @@ int main (void){
         p = fopen("save", "w");
         fclose(p);
 
-		arq = fopen("1main1.txt", "r");
+	arq = fopen("1main1.txt", "r");
         leitura(arq);
         fclose(arq);
     }
@@ -92,7 +92,7 @@ int main (void){
     
     printf("Qual o seu nome:");
     scanf("%s", jogador.nome);
-    getchar(); clrscr();
+    getchar(); system.cls()
   
     arq = fopen("1main2.txt", "r");
     
@@ -102,10 +102,10 @@ int main (void){
     printf("\n----------[OPÇÕES]----------");
     jogador.mochila = (int *) malloc (3 * sizeof (int));
     inicio(jogador.mochila);
-    getchar(); clrscr();
+    getchar(); system.cls()
 
     printf("%s: Legal, hora de ir.", jogador.nome);
-    getchar(); clrscr();
+    getchar(); system.cls()
   
     if(busca(jogador.mochila, 1) == 1) // Sem oculos Ernesto
     {
@@ -165,7 +165,7 @@ void ernesto(status *jogador)
     
     printf("[0] - Entregar a varinha \n[1] - Não entregar a varinha\n");
     scanf("%d", &resposta);
-    getchar(); clrscr();
+    getchar(); system.cls()
     
     if (resposta == 0){
         
@@ -201,16 +201,15 @@ void vazio(status *jogador){
 
     printf("[0] - Sentar na frente \n[1] - Sentar no fundo\n");
     scanf("%d", &resposta_1);
-    getchar(); clrscr();
-
+    getchar(); system.cls()
     while (resposta_1 != 0 && resposta_1 != 1){
 
     	printf("Opção inválida.");
-    	getchar(); clrscr();
+    	getchar(); system.cls()
     	
     	printf("[0] - Sentar na frente \n[1] - Sentar no fundo\n");
     	scanf("%d", &resposta_1);
-    	getchar(); clrscr();
+    	getchar(); system.cls()
     }
 
     if (resposta_1 == 0){
@@ -227,27 +226,27 @@ void vazio(status *jogador){
         while(resposta_2 != 0 && resposta_2 != 1){
 
             printf("Opção inválida.");
-    	    getchar(); clrscr();
+    	    getchar(); system.cls()
     	
     	    printf("[0] - Entrega o Game Boy \n[1] - Não Entrega o Game Boy\n");
             scanf("%d", &resposta_2);
-            getchar(); clrscr();
+            getchar(); system.cls()
         }
     
 	    if (resposta_2 == 0){
 
-            fprintf (p, "Você entregou o Game Boy\n");
+            	fprintf (p, "Você entregou o Game Boy\n");
 	        arq = fopen("vazio_frente_nao.txt", "rt");
 	        leitura(arq);
-    	    fclose(arq);
+    	    	fclose(arq);
 	    }
 
 	    else{
 
-            fprintf (p, "Você não entregou o Game Boy\n");
+            	fprintf (p, "Você não entregou o Game Boy\n");
 	        arq = fopen("vazio_frente_sim.txt", "rt");
 	        leitura(arq);
-    	    fclose(arq);
+    	    	fclose(arq);
 	    }
     
     }
@@ -255,22 +254,22 @@ void vazio(status *jogador){
     else{
 
         fprintf (p, "Você sentou no fundo\n");
-	    arq = fopen("vazio_fundo.txt", "rt");
-	    leitura(arq);
-	    fclose(arq);
+	arq = fopen("vazio_fundo.txt", "rt");
+	leitura(arq);
+	fclose(arq);
 
-	    printf("[0] - Desiste de tentar \n[1] - Continua tentando\n");
+	printf("[0] - Desiste de tentar \n[1] - Continua tentando\n");
         scanf("%d", &resposta_2);
-        getchar(); clrscr();
+        getchar(); system.cls()
 
         while(resposta_2 != 0 && resposta_2 != 1){
 
             printf("Opção inválida.");
-    	    getchar(); clrscr();
+    	    getchar(); system.cls()
     	
     	    printf("[0] - Desiste de tentar \n[1] - Continua tentando\n");
             scanf("%d", &resposta_2);
-            getchar(); clrscr();
+            getchar(); system.cls()
         }
     }
 
@@ -300,7 +299,7 @@ void bolado(status *jogador){
     fprintf (p, "Motorista:\n");
     fprintf(p, "Bolado\n");
 
-	int resposta_1, resposta_2;
+    int resposta_1, resposta_2;
 
     FILE *arq;
     arq = fopen("bolado.txt", "rt");
@@ -309,16 +308,16 @@ void bolado(status *jogador){
     
     printf("----- Filmar briga ----- \n[0] - Não \n[1] - Sim \n");
     scanf("%d", &resposta_1);
-    getchar(); clrscr();
+    getchar(); system.cls()
     
     while (resposta_1 != 0 && resposta_1 != 1){
 
     	printf("Opção inválida.");
-    	getchar(); clrscr();
+    	getchar(); system.cls()
     	
     	printf("[0] - Não \n[1] - Sim \n");
     	scanf("%d", &resposta_1);
-    	getchar(); clrscr();
+    	getchar(); system.cls()
     }
     
     if (resposta_1 == 0){
@@ -331,11 +330,11 @@ void bolado(status *jogador){
     	while (resposta_2 != 0 && resposta_2 != 1){
 
     		printf("Opção inválida");
-    		getchar(); clrscr();
+    		getchar(); system.cls()
     
     		printf("----- Dirigir ônibus ----- \n[0] - Não \n[1] - Sim \n");
     		scanf("%d", &resposta_2);
-    		getchar(); clrscr();
+    		getchar(); system.cls()
 	    }
     	
     	if (resposta_2 == 0){
@@ -364,16 +363,16 @@ void bolado(status *jogador){
     
     	printf("----- Ir ao hospital ----- \n[0] - Não \[1] - Sim \n");
     	scanf("%d", &resposta_2);
-    	getchar(); clrscr();
+    	getchar(); system.cls()
     
     	while (resposta_2 != 0 && resposta_2 != 1){
 
     		printf("Opção inválida");
-    		getchar(); clrscr();
+    		getchar(); system.cls()
     
     		printf("----- Ir ao Hospital ----- \n[0] - Não \n[1] - Sim \n");
     		scanf("%d", &resposta_2);
-    		getchar(); clrscr();
+    		getchar(); system.cls()
     	}
     
     	if (resposta_2 == 0){
@@ -412,16 +411,16 @@ void novato(status *jogador){
     
     printf("----- Emprestar o Celular ----- \n[0] - Não \n[1] - Sim \n");
     scanf("%d", &resposta_1);
-    getchar(); clrscr();
+    getchar(); system.cls()
     
     while (resposta_1 != 0 && resposta_1 != 1){
 
         printf("Opção inválida.\n");
-        getchar(); clrscr();
+        getchar(); system.cls()
         
         printf("----- Emprestar o Celular ----- \n[0] - Não \n[1] - Sim \n");
         scanf("%d", &resposta_1);
-        getchar(); clrscr();
+        getchar(); system.cls()
     }
     
     if (resposta_1 == 0){
@@ -433,16 +432,16 @@ void novato(status *jogador){
         
         printf("----- Descer do ônibus ----- \n[0] - Não \n[1] - Sim \n");
         scanf("%d", &resposta_2);
-        getchar(); clrscr();
+        getchar(); system.cls()
         
         while(resposta_2 != 0 && resposta_2 != 1){
             
-	        printf("Opção inválida.");
-            getchar(); clrscr();
+	    printf("Opção inválida.");
+            getchar(); system.cls()
             
             printf("----- Descer do ônibus ----- \n[0] - Não \n[1] - Sim \n");
             scanf("%d", &resposta_2);
-            getchar(); clrscr();
+            getchar(); system.cls()
         }
         
         if (resposta_2 == 0){
@@ -471,22 +470,22 @@ void novato(status *jogador){
         
         printf("----- Ir pra UERJ ----- \n[0] - Não \n[1] - Sim \n");
         scanf("%d", &resposta_2);
-        getchar(); clrscr();
+        getchar(); system.cls()
         
         while(resposta_2 != 0 && resposta_2 != 1){
 
             printf("Opção inválida.");
-            getchar(); clrscr();
+            getchar(); system.cls()
             
             printf("----- Ir pra UERJ ----- \n[0] - Não \n[1] - Sim \n");
             scanf("%d", &resposta_2);
-            getchar(); clrscr();
+            getchar(); system.cls()
         }
         
         if (resposta_2 == 0){
 
             fprintf(p, "Não foi para a UERJ\n");
-	        arq = fopen("novato_sim_nao.txt", "rt");
+	    arq = fopen("novato_sim_nao.txt", "rt");
     	    leitura(arq);
     	    fclose(arq);
         }
@@ -520,16 +519,16 @@ void jamaicano(status *jogador)
     
     printf("[0] - Troca o sanduíche \n[1] - Fica com o sanduíche\n");
     scanf("%d", &resposta_1);
-    getchar(); clrscr();
+    getchar(); system.cls()
     
     while (resposta_1 != 0 && resposta_1 != 1){
 
         printf("Opção inválida.");
-        getchar(); clrscr();
+        getchar(); system.cls()
             
         printf("[0] - Sim \n[1] - Não\n");
         scanf("%d", &resposta_1);
-        getchar(); clrscr();
+        getchar(); system.cls()
     }
     
     if (resposta_1 == 0){
@@ -540,7 +539,7 @@ void jamaicano(status *jogador)
     	fclose(arq);
         printf("[0] - Sim \n[1] - Não\n");
         scanf("%d", &resposta_2);
-        getchar(); clrscr();
+        getchar(); system.cls()
         
         while (resposta_2 != 0 && resposta_2 != 1){
 
@@ -548,7 +547,7 @@ void jamaicano(status *jogador)
             getchar(); clrscr();  
             printf("[0] - Sim \n[1] - Não\n");
             scanf("%d", &resposta_2);
-            getchar(); clrscr();
+            getchar(); system.cls()
         }
         
         if (resposta_2 == 0){  
@@ -562,7 +561,7 @@ void jamaicano(status *jogador)
         else{
 
             fprintf(p, "Não foi ao bandeijão\n");
-	        arq = fopen("jamaicano_sucesso1.txt", "rt");
+	    arq = fopen("jamaicano_sucesso1.txt", "rt");
     	    leitura(arq);
     	    fclose(arq);
 	    }
@@ -570,22 +569,22 @@ void jamaicano(status *jogador)
     
     else{
     	fprintf(p, "Não trocou o sanduiche\n");
-	    arq = fopen("jamaicano_n.txt", "rt");
+	arq = fopen("jamaicano_n.txt", "rt");
     	leitura(arq);
     	fclose(arq);
 	    
         printf("[0] - Sim \n[1] - Não\n");
         scanf("%d", &resposta_2);
-        getchar(); clrscr();
+        getchar(); system.cls()
         
         while (resposta_2 != 0 && resposta_2 != 1){
 
             printf("Opção inválida.");
-            getchar(); clrscr();
+            getchar(); system.cls()
 
             printf("[0] - Sim \n[1] - Não\n");
             scanf("%d", &resposta_2);
-            getchar(); clrscr();
+            getchar(); system.cls()
         }
         
         if (resposta_2 == 0){
@@ -599,10 +598,10 @@ void jamaicano(status *jogador)
         else{
             
             fprintf(p, "Apresentou o trabalho com sede\n");
-	        arq = fopen("jamaicano_sucesso2.txt", "rt");
+	    arq = fopen("jamaicano_sucesso2.txt", "rt");
     	    leitura(arq);
     	    fclose(arq);
-	    }
+	}
     }
 
     fclose(p);
@@ -661,7 +660,7 @@ char leitura(FILE *arq){
         sleep(30);      // Delay de 100 milissegundos entre cada caractere
         if (c == '\n') {
             getchar(); // Espera pelo Enter do usuário
-            clrscr();
+            system.cls()
         }
     }
 
