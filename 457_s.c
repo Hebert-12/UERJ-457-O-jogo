@@ -3,10 +3,9 @@
 #include <time.h>
 
 #ifdef _WIN32
-//#include <conio.h>
 #include <windows.h>
 #define clrscr() printf("\e[1;1H\e[2J")
-#define sleep(ms) Sleep(ms)
+#define sleep(ms) Sleep(ms 0.5)
 #else
 #include <unistd.h>
 #define clrscr() printf("\e[1;1H\e[2J")
