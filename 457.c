@@ -637,7 +637,7 @@ void salvar_mochila(int *vetor)
 {
     FILE *p;
     p = fopen("save", "a");
-    fprintf (p, "\n-------------\\--------------\nMochila:\n");
+    fprintf (p, "\nJogador: %s\nMochila:\n", jogador.nome);
     
     for(int i =0; i <3; i++){
         
