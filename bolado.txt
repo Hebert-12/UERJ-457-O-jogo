@@ -1,0 +1,12 @@
+[Você se arrumou, e ao sair escuta o som de pássaros cantando, e o clima está muito agradável]
+@: Nossa, hoje o dia está agradável. Estou sentindo que vai dar tudo certo hoje!
+[Ônibus chega]
+@: Bom dia, motorista!
+[Motorista]: Bom dia pra quem?! Só se for pra você, que não faz nada! Entra logo e para com essa lenga-lenga!
+[De repente se escuta um barulho de batida. Pouco depois, @ olha pela janela e vê o motorista discutindo com dois motoqueiros]
+[Motorista]: VOCÊS SÃO UNS IMBECIS! COMPRARAM ESSA HABILITAÇÃO?!
+[Motoqueiros]: A CULPA FOI SUA, SEU CARECA! A SUA CARECA É TÃO BRILHANTE QUE FICA DIFÍCIL DE ENXERGAR O CAMINHO!
+[Motoqueiros]: VOCÊ VAI TER QUE PAGAR O CONSERTO!
+[Motorista]: REPETE O QUE VOCÊ DISSE, E A SUA MOTO NÃO VAI SER A ÚNICA COISA QUEBRADA AQUI!
+@: Em São Paulo não tem isso!
+@: Será que eu filmo isso e mando pra galera da faculdade?

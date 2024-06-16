@@ -1,0 +1,13 @@
+@: Não! Eu tenho que chegar na UERJ, senão vou ser reprovado em LP1!
+Socorrista: Você não vai a lugar nenhum. Além disso, é só pegar um at...
+[Antes que o socorrista pudesse terminar a frase, @ sai correndo e pega o primeiro táxi para chegar a tempo na UERJ]
+[Chegando na UERJ]
+Taxista: Você deve estar com um compromisso muito importante para vir para cá esculhambado(a) desse jeito...
+@: Amigo, você não iria acreditar, mas agora não tenho tempo para explicar. Tome aqui seu pagamento.
+[Chegando na sala de aula]
+@: Que bom, vou chegar a tempo!
+[PLOFT]
+---------- Game Over ----------
+Você desmaiou em razão dos ferimentos que não foram tratados.
+Ao te verem, você foi levado para um hospital.
+Como não conseguiu chegar na sala e explicar a situação, foi reprovado em LP1 por falta.

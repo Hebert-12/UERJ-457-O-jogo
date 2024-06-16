@@ -1,0 +1,14 @@
+[O dia está ensolarado, uma brisa gostosa corre pela rua enquanto você se encaminha ao ponto.]
+@: Que dia agradável, sinto que tudo dará certo pra mim!
+[Após chegar ao ponto, você aguarda por 20 minutos e nada do 457 passar...]
+@: Que estranho, que demora é essa?
+[Após mais 10 minutos, chega o 457]
+@: Nossa, hoje vocês demoraram um pouco, você é novo na linha?
+@: Geralmente pego o ônibus com outro motorista nesse horário.
+Motorista]: Sim, hoje é o meu primeiro dia, ainda estou me acostumando com a linha mas tá tudo certo!
+[Você percebe que embora o motorista tente esboçar um sorriso de tranquilidade, ele não parece estar tranquilo.]
+[...]
+Motorista: Ei, jovem! Você poderia me emprestar o GPS do seu celular? Acho que estou meio perdido!
+[Motorista esboça um sorriso amarelo.]
+@: Caramba, eu esqueci de carregar meu celular enquanto dormia, aqui diz que tenho só um pouco de bateria.
+@: O que eu faço agora?

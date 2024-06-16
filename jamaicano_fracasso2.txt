@@ -1,0 +1,6 @@
+[@ enche sua garrafinha e dá umas goladas, mas nota que a água está com um gosto forte de ferrugem.
+Percebendo o problema, você lamenta a falta de manutenção do bebedouro, sabendo que a última vez que foi feita foi em 1980.
+Mesmo assim, você continua a beber a água, ignorando os sinais de perigo.]
+Infelizmente, a água contaminada causa uma forte intoxicação, e você passa as próximas horas no banheiro, sofrendo as consequências desagradáveis da sua escolha descuidada.
+[Game Over]
+Você foi reprovado por falta, e aprendeu a sempre verificar o certificado de manutenção dos bebedouros antes de pegar água.

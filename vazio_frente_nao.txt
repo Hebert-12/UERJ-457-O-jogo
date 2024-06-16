@@ -1,0 +1,12 @@
+@: Po cara, acabei de capturar um Articuno, leva o que quiser, mas me deixa ficar ao menos com meu Game Boy.
+Assaltante: Caramba hein, que drama... Tá bom, fica com o Game Boy, mas me passa sua mochila!
+Assaltante: Você também motorista, não se faz de desentendido não, me passa essas moedas!
+[Você entrega sua mochila e o motorista entrega os poucos trocados que tinha]
+Assaltante: Me libera aí nesse ponto e vai embora!
+[Assaltante desce e o motorista continua com a viagem]
+@: Caramba, que situação bizarra, o Rio de Janeiro não está fácil...
+@: Bom, ao menos mantive meu bom e velho Game Boy!
+Motorista: É você perdeu todas as suas coisas na mochila, mas ao menos você ficou com o Game Boy, que sorte hein?! Hunf...
+@: Macacos me mordam! Meu trabalho da faculdade estava na mochila!!!
+[Game Over]
+Você conseguiu chegar na UERJ, mas não tinha mais o trabalho pra apresentar e assim reprovou em LP1.

@@ -1,0 +1,13 @@
+@: Eu devo ter encontrado um daqueles famosos glitches dos pokémons de primeira geração!
+@: Não deve demorar tanto assim, vou capturar esse Articuno!
+[Após longas tentativas, você reencontra o Articuno]
+@: Maravilha! Agora não vou desperdiçar essa chance!
+[Você consegue capturar o Articuno com uma masterball]
+@: Não acredito, desde criança que eu queria fazer isso!
+[Você olha pela janela e percebe que o ônibus está parado na garagem]
+@: Mas o que... Onde eu vim parar? Alo, motorista??
+[Você percebe que não tem ninguém no ônibus, você está trancado]
+[Game Over]
+Você capturou o Articuno, mas ficou tanto tempo tentando que não percebeu que já tinha chegado no ponto final.
+Como estava no último banco, o motorista não te viu e achou que o ônibus estava vazio.
+Você não conseguiu passar em LP1 por ter faltado à apresentação.

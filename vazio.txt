@@ -1,0 +1,10 @@
+@: Meu velho GameBoy! Boa ideia, vou levar pra ir jogando pokémon no ônibus.
+...
+[Quando você está chegando no ponto, vê que um 457 acabou de passar ali]
+@: Droga! Perdi meu ônibus por pouco, agora terei que esperar muito tempo até o próximo.
+[Você nota que outro 457 está chegando no ponto]
+@: Caramba, que sorte! Não esperei nem um minuto aqui.
+@: Boa tarde motorista! Nossa, o ônibus está completamente vazio, que milagre.
+[Motorista]: Boa tarde jovem. Pois é, aquele corno do motorista do 457 na frente tá correndo pra pegar todos os passageiros primeiro.
+@: Bom, por mim tá ótimo, posso escolher o lugar em que eu vou sentar.
+@: Será que me sento aqui na frente ou lá no fundo?

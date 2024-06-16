@@ -1,0 +1,9 @@
+@: Vou me sentar lá no fundo, assim já fico perto da saída.
+[Você se senta no último banco]
+@: Já que trouxe meu Game Boy, acho que vou jogar um pouco de Pokémon e tentar evoluir me Magikarp!
+[Você começa a upar seu Magikarp na graminha da floresta de Viridian]
+[A wild Articuno appears]
+@: Pelas barbas do profeta! Um Articuno!!
+[Você tenta lutar contra o Articuno para poder capturá-lo, mas ele foge]
+@: Droga ele fugiu, será que foi um bug ou eu deveria tentar achar ele de novo por aqui?
+

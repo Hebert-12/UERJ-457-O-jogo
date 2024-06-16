@@ -1,0 +1,12 @@
+@: Não vou ter essa trabalheira pra ser reprovado(a).
+[Você segue para o ponto de ônibus sentido sua casa.]
+[Enquanto aguarda o ônibus, duas pessoas numa moto se aproximam.]
+Motoqueiro: Perdeu, perdeu! Passa o celular!
+@: Pode pegar, ele acabou de pifar mesmo...
+Motoqueiro: Cara, tá maluco(a)? Ele só tá desligado, deve ter ficado sem bateria.
+[Motoqueiro conecta o celular em um power bank e ele liga]
+Motoqueiro: Não disse? Você deu mole... Pra parar de ser otário(a), passa essa carteira aí também!
+---------- Game Over ----------
+Você não conseguiu apresentar seu trabalho e teve reprovação em LP1. 
+De quebra, ainda ficou sem celular e carteira, não foi seu dia de sorte.
+

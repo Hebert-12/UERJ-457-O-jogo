@@ -1,0 +1,7 @@
+@: Melhor eu continuar no ônibus, não conheço nada por aqui, iria me perder.
+Motorista: Não se preocupe, já entendi o que fazer!
+[Após 5 segundos motorista erra o retorno em São Gonçalo e segue para Itaboraí.]
+Motorista: É... Talvez fosse melhor seguir o coselho da minha mãe e não ter comprado a carteira de motorista.
+---------- Game Over ----------
+Você não conseguiu chegar na UERJ a tempo de apresentar seu trabalho.
+Reza a lenda que a essa altura você já se encontra na Região dos Lagos.

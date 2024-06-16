@@ -1,0 +1,13 @@
+@: Vou me sentar aqui na frente mesmo.
+[A viagem transcorre perfeitamente, ninguém entra no ônibus depois de você]
+@: Rapaz, encontrei um Articuno!!.
+Motorista: Encontrou o que??
+@: Um pokémon lendário!
+Motorista: É cada um que me entra nesse ônibus...
+[457 para em um ponto após um passageiro fazer sinal]
+Motorista: Opa, finalmente mais um passageiro.
+[Um homem mascarado sobe no ônibus]
+Assaltante: Isso é um assalto!! Ninguém faz uma gracinha se não vai levar bala!
+Motorista: Irmão, você escolheu o ônibus errado pra assaltar, não tem ninguém aqui...
+Assaltante: Pqp, agora não vou sair de mãos abanando... Ei, você aí, me passa esse Game Boy!
+@: O que eu faço?

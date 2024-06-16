@@ -1,0 +1,8 @@
+[Motorista Jamaicano]: Pô, bicho, isso não foi nada reggae da sua parte... Mas tudo bem, acho que vou me contentar com meus brownies por enquanto.
+[@ senta no banco]
+@: Cara, esse motorista dirige engraçado. Espero que isso não me atrase... Bom, vou aproveitar para comer!
+[@ dá uma mordida no sanduíche]
+@: Catapimbas! Esse sanduíche está muito salgado! Ainda bem que trouxe minha garrafa de água.
+[Chegando na UERJ]
+@: Bom, melhor eu já subir para o sexto andar e me preparar para a apresentação. Mas bebi toda a minha água e ainda sinto minha garganta seca.
+@: Devo encher minha garrafinha no bebedouro do sexto andar?
