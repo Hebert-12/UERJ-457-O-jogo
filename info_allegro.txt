@@ -1,2 +1,0 @@
-site com informações sobre como utilizar a linguagem allegro
-https://davidcreator.com/linguagem-c-allegro/
