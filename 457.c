@@ -222,7 +222,7 @@ void vazio(status *jogador){
     
 	    if (resposta_2 == 0){
             fprintf (p, "Você entregou o Game Boy\n");
-	        arq = fopen("vazio_frente_nao.txt", "rt");
+	        arq = fopen("vazio_frente_sim.txt", "rt");
 	        leitura(arq);
     	    fclose(arq);
 	    }
@@ -230,7 +230,7 @@ void vazio(status *jogador){
 	    else{
 
             fprintf (p, "Você não entregou o Game Boy\n");
-	        arq = fopen("vazio_frente_sim.txt", "rt");
+	        arq = fopen("vazio_frente_nao.txt", "rt");
 	        leitura(arq);
     	    fclose(arq);
 	    }
