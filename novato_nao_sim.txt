@@ -4,7 +4,7 @@
 [...]
 [Você vê um carro se aproximando devagar e piscando o farol.]
 @: E essa agora? Espero que não sejam mais problemas...
-[Professora Laissa]: @?? O que diabos você tá fazendo aqui?
+Professora Laissa: @?? O que diabos você tá fazendo aqui?
 @: Professora que coincidência! Eu estava justamente indo pra sua aula apresentar meu trabalho.
 Professora Laissa: Não é o que me parece...
 Professora Laissa: Bom, de qualquer maneira entra no carro que te dou uma carona até lá!
