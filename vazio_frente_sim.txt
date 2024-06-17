@@ -1,13 +1,13 @@
 [@ em completo desespero joga o Game Boy na cabeça do assaltante]
 [O Game Boy bate na cabeça dele e solta uma luz forte]
-[Motorista]: Que luz é essa? Eu não consigo enxergar nada!
+Motorista: Que luz é essa? Eu não consigo enxergar nada!
 [Após poucos segundos, a luz some, o Game Boy está no chão, não há assaltante]
-[@]: O que foi isso? Pra onde ele foi??
-[Motorista]: Será que ele pulou pela janela? Não pode ser, ele se arrebentaria todo!
+@: O que foi isso? Pra onde ele foi??
+Motorista: Será que ele pulou pela janela? Não pode ser, ele se arrebentaria todo!
 [@ se levanta e pega seu velho Game Boy do chão]
 [Ao olhar para a tela, @ repara que sua pokédex está aberta, nela constam 152 pokémons]
-[@]: Inacreditável... Melhor eu não falar nada disso com ninguém...
-[Motorista]: Ei, você disse que ia pra UERJ né?! O ponto é esse daqui...
+@: Inacreditável... Melhor eu não falar nada disso com ninguém...
+Motorista: Ei, você disse que ia pra UERJ né?! O ponto é esse daqui...
 [Parabéns]
 Você conseguiu chegar na aula e apresentar o seu trabalho, tendo aprovação na disciplina.
 Dizem por aí que uma pessoa misteriosa ronda às ruas da cidade capturando criminosos com seu Game Boy...
