@@ -4,7 +4,7 @@
 [No caminho para o ponto de ônibus @ encontra uma misteriosa caixa.]
 @: Não consigo ler o que está escrito nessa caixa, mas parece conter um graveto de madeira esculpido à mão...
 @: Curioso, já vi isso em algum lugar, vou levar, deve valer algo.
-[Ao chegar no ponto @ vê um ônibus se aproximando, com medo de perdê-lo, \nfaz o sinal com a madeira que ainda está em suas mãos.]
+[Ao chegar no ponto @ vê um ônibus se aproximando, com medo de perdê-lo, faz o sinal com a madeira que ainda está em suas mãos.]
 [Um ônibus grande para em sua frente, com a vista turva, @ não lê muito bem o ramal.]
 Cobrador: Ei, você aí que fez sinal com a varinha, entre logo para não se atrasar.
 [As pessoas parecem não notar o ônibus, mas como @ não tem muito tempo, embarca sem pensar muito.]
@@ -12,12 +12,12 @@ Cobrador: Bem vindo ao Noitebus, o transporte de emergência para bruxos e bruxa
 Cobrador: Meu nome é Stanislau Shunpike, mas pode me chamar de Stan.
 Stan: Vejo que você é um(a) estudante, já sei pra onde está indo, não se preocupe, chegará a tempo.
 Stan: Enquanto isso, gostaria de um pouco de suco de abóbora ou alguns sapos de chocolate para desgustar?
-[@ não entende nada do porque do rapaz ter falado aquilo, \nmas por achar que se trata de alguma piada apenas da uma risada e senta em um lugar vazio.]
+[@ não entende nada do porque do rapaz ter falado aquilo, mas por achar que se trata de alguma piada apenas da uma risada e senta em um lugar vazio.]
 Stan: Manda ver Ernesto!
 Cabeça de voodoo pendurada no retrovisor: É, Manda ver Ernesto!
 @: Aquela cabeça de voodoo acabou de falar?
 [No mesmo momento que @ esboçou se levantar, o ônibus disparou em uma velocidade que fez com que o corpo de @ grudasse no banco do ônibus.]
-[A viagem se passa como se fosse um estranho sonho, \na cada vez que @ piscava, a paisagem do lado de fora da janela se transformava.]
+[A viagem se passa como se fosse um estranho sonho, a cada vez que @ piscava, a paisagem do lado de fora da janela se transformava.]
 Stan: Ei, você aí com cara de fantasma, já chegamos no seu destino!
 [@ ao descer do noitebus não se vê diante do velho prédio de concreto em que estuda, mas sim diante de um grande castelo.]
 [Uma confusão parece ocorrer no local, raios de luz cortam o ar, ao longe parece haver destroços e pessoas caídas.]
