@@ -256,22 +256,22 @@ void vazio(status *jogador){
             scanf("%d", &resposta_2);
             getchar(); clrscr();
         }
-    }
-
+	    
 	if (resposta_2 == 0){
-        fprintf (p, "Você desistiu de pegar o pokemom\n");
+            fprintf (p, "Você desistiu de pegar o pokemom\n");
 	    arq = fopen("vazio_fundo_nao.txt", "rt");
 	    leitura(arq);
 	    fclose(arq);
 	}
 
 	else{
-        fprintf (p, "Você continuo tentando pegar o pokemom\n");
+            fprintf (p, "Você continuo tentando pegar o pokemom\n");
 	    arq = fopen("vazio_fundo_sim.txt", "rt");
 	    leitura(arq);
 	    fclose(arq);
 	}
     fclose(p);
+    }
 }
 
 void bolado(status *jogador){
