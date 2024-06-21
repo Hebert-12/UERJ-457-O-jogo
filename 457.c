@@ -127,6 +127,7 @@ int main (void){
             jamaicano(&jogador);
         }
     }
+    free(jogador.mochila);
     return 0;
 }
 
