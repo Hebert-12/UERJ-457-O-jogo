@@ -107,23 +107,23 @@ int main (void){
     printf("%s: Legal, hora de ir.", jogador.nome);
     getchar(); clrscr();
   
-    if(busca(jogador.mochila, 1) == 1){ // Sem oculos Ernesto
+    if(busca(jogador.mochila, 1) == 1){ // Noitebus
     
         ernesto(&jogador);
       
     }
     else{ // com oculos
 
-        if(busca(jogador.mochila, 5) == 0) {// com GameBoy vazio
+        if(busca(jogador.mochila, 5) == 0) {// Ônibus Vazio
             vazio(&jogador);
         }
-        else if(busca(jogador.mochila, 2) == 0 && busca(jogador.mochila, 4) == 0) { // bolado
+        else if(busca(jogador.mochila, 2) == 0 && busca(jogador.mochila, 4) == 0) { // Motorista Bolado
             bolado(&jogador);
         } 
-        else if(busca(jogador.mochila, 3) == 0 && busca(jogador.mochila, 4) == 0){ // Novato
+        else if(busca(jogador.mochila, 3) == 0 && busca(jogador.mochila, 4) == 0){ // Motorista Novato
             novato(&jogador);
         }
-        else {// jamaicano (1, 2, 3)
+        else { // Motorista Jamaicano
             jamaicano(&jogador);
         }
     }
