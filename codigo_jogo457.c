@@ -117,10 +117,10 @@ int main (void){
         if(busca(jogador.mochila, 5) == 0) {// com GameBoy vazio
             vazio(&jogador);
         }
-        else if(busca(jogador.mochila, 2) && busca(jogador.mochila, 4) == 0) { // bolado
+        else if(busca(jogador.mochila, 2) == 0 && busca(jogador.mochila, 4) == 0) { // bolado
             bolado(&jogador);
         } 
-        else if(busca(jogador.mochila, 3) && busca(jogador.mochila, 4) == 0){ // Novato
+        else if(busca(jogador.mochila, 3) == 0 && busca(jogador.mochila, 4) == 0){ // Novato
             novato(&jogador);
         }
         else {// jamaicano (1, 2, 3)
